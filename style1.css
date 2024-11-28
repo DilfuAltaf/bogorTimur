@@ -1,0 +1,24 @@
+
+.kotak {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    margin: 10px;
+}
+
+.merah {
+    background-color: red;
+}
+
+.hijau {
+    background-color: green;
+}
+
+.aqua {
+    background-color: aqua;
+}
+
+#circle {
+    border-radius: 50%;
+}
